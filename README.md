@@ -49,7 +49,7 @@
 
 ###
 
-<p align="center"><sub>Thanks for visiting! Here's a little something I've been listening to 🎧</sub></p>
+<h3 align="center"><sub>Thanks for visiting! Here's a little something I've been listening to 🎧</sub></h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/chanhisme/chanhisme/main/tenor.gif" width="300" />
