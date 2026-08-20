@@ -41,24 +41,22 @@
 
 ###
 
-<table data-importer="pacman-gif-row">
-  <tr>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanhisme/chanhisme/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanhisme/chanhisme/pacman-output/pacman-contribution-graph.svg?game=pacman">
-        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chanhisme/chanhisme/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
-      </picture>
-    </td>
-    <td width="50%">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRwczdzdzRueDFpZDdwN2pkNW1pOTNteThuamdib2FybzJlc3F4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIS6V6HR0AEDsuHtXo/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanhisme/chanhisme/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanhisme/chanhisme/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chanhisme/chanhisme/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
 
-###
+<p align="center"><sub>Thanks for visiting! Here's a little something I've been listening to 🎧</sub></p>
 
-[![Gone, Gone, Gone - Phillip Phillips](https://img.shields.io/static/v1?message=Gone,+Gone,+Gone+-+Phillip+Phillips&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge)](https://open.spotify.com/track/5L79aNYCTKiZq7vaOElXYj?autoplay_ok=1)
-###
+<p align="center">
+  <img src="https://media1.tenor.com/m/2hZ7l8PanvQAAAAC/spider-man-thanks-partner.gif" width="250" />
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/5L79aNYCTKiZq7vaOElXYj?autoplay_ok=1">
+    <img src="https://img.shields.io/static/v1?message=Gone,+Gone,+Gone+-+Phillip+Phillips&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" />
+  </a>
+</p>
