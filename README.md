@@ -52,7 +52,7 @@
 <p align="center"><sub>Thanks for visiting! Here's a little something I've been listening to 🎧</sub></p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/2hZ7l8PanvQAAAAC/spider-man-thanks-partner.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/chanhisme/chanhisme/main/tenor.gif" width="300" />
 </p>
 
 <p align="center">
