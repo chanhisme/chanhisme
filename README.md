@@ -6,9 +6,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chanhisme&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="35%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chanhisme&theme=radical&hide_border=false" width="40%" />
+  <img src="https://streak-stats.demolab.com/?user=chanhisme&theme=radical&hide_border=false" width="45%" />
 </p>
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
