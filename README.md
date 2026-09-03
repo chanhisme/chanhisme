@@ -1,16 +1,13 @@
 <p data-importer="text" align="left">Hi 👋! My name is Chanh and I'm a Software Engineering student @FPT University HCMC</p>
 
 ###
-
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=chanhisme&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chanhisme&layout=compact&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api?username=chanhisme&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="35%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chanhisme&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="35%" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=chanhisme&theme=radical&hide_border=false" width="40%" />
+</p>
 ###
 
 <div data-importer="techs" align="center">
