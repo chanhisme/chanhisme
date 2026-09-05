@@ -7,9 +7,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/chanhisme">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chanhisme&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="chanhisme's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chanhisme&cache_seconds=3600&layout=compact&theme=radical&border_radius=10" alt="chanhisme's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=chanhisme&theme=radical&hide_border=true&cache_seconds=86400" alt="chanhisme's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=chanhisme&theme=radical&hide_border=true&cache_seconds=3600" alt="chanhisme's GitHub Streak" width="49%" />
 </p>
 
 
